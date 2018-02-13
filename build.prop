@@ -1,0 +1,16 @@
+
+ro.product.model=HUAWEI Y360-U23
+ro.product.brand=HUAWEI
+ro.product.name=Y360-U23
+ro.product.device=HWY360-U
+ro.product.board=Y360-U23
+ro.product.cpu.abi=armeabi-v7a
+ro.product.cpu.abi2=armeabi
+ro.product.manufacturer=HUAWEI
+ro.product.locale.language=es
+ro.product.locale.region=US
+ro.build.product=HWY360-U
+ro.sf.lcd_density=230
+
+#Remove
+media.sf.omx-plugin=libffmpeg_omx.so
